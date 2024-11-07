@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-2_09thb_epzd)ialu5bsd=qu1xnws#166d!n4h!c4h$n!n@-3q
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', '127.0.0.1', "http://localhost:5173",]
+ALLOWED_HOSTS = ['notesapi-hxb1.onrender.com','localhost', '127.0.0.1', "http://localhost:5173",]
 
 CORS_ALLOW_ALL_ORIGINS = True
 
